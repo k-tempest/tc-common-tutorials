@@ -91,9 +91,9 @@ Windows/Mac OS X:
 
 Export the env file configurations by issuing the following command inside the submission-system folder:
 
-    source [env.sh] [1]
-
-[1]: /env.sh
+[
+    source env.sh
+] (/env.sh)
 
 Inside the submission-system folder, issue the following command:
 
